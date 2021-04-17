@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/aman1/Desktop/New folder (2)/grizzly-framework-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aman1/Desktop/New folder (2)/grizzly-http-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aman1/Desktop/New folder (2)/grizzly-http-server-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aman1/Desktop/New folder (2)/grizzly-rcm-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aman1/Desktop/New folder (2)/javax.websocket-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aman1/Desktop/New folder (2)/tyrus-client-cli-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aman1/Desktop/New folder (2)/tyrus-container-grizzly-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aman1/Desktop/New folder (2)/tyrus-core-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aman1/Desktop/New folder (2)/tyrus-server-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aman1/Desktop/New folder (2)/tyrus-spi-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aman1/Desktop/New folder (2)/tyrus-websocket-core-1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
